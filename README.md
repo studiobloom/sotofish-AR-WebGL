@@ -10,3 +10,11 @@ This repository contains an augmented reality (AR) experience as a part of the C
 - Web deployment through WebGL technology
 - Cross-platform compatibility (works on both Android and iOS devices)
 
+## LIVE DEMO ##
+## Live Demo
+
+Scan the QR code displayed on the webpage to launch the AR experience. Enjoy the immersive augmented reality right from your mobile device!
+To experience the augmented reality project, simply point your mobile device's camera at the target image: 
+![Sotofish Image](https://raw.githubusercontent.com/studiobloom/sotofish-AR-WebGL/main/targets/sotofish.png). 
+
+
